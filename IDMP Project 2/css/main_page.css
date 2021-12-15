@@ -1,0 +1,122 @@
+#collage-one,#collage-two,#collage-three,#collage-four,
+#collage-five,#collage-six,#collage-seven,#collage-eight,
+#collage-nine,#collage-ten,#collage-eleven,#collage-twelve,
+#collage-thirteen,#collage-fourteen{
+	width:11.5vw;
+	height:14vw;
+	padding:0.65vw;
+	background:#eee;
+	border-radius:0px;
+	position:absolute;
+}
+#collage-text{
+    width:26.04vw;
+	padding:0.65vw;
+	background:#fcffff;
+	border-radius:0px;
+  border: 10px solid #eee;
+	position:absolute;
+	z-index:8;
+    top:11.71vw;
+    left:69vw;
+}
+.title {
+  font-family: 'Tangerine';
+  text-align: center;
+  font-size: 3vw;
+}
+#collage-one{
+z-index:1;
+top:3.225vw;
+left:3.225vw;
+}
+
+#collage-two{
+z-index:3;
+top:10.4vw;
+left:12vw;
+}
+
+#collage-three{
+z-index:4;
+top:1.95vw;
+left:21.48vw;
+}
+
+#collage-four{
+z-index:5;
+top:9.11vw;
+left:30.6vw;
+}
+
+#collage-five{
+z-index:6;
+top:1.95vw;
+left:40.36vw;
+}
+
+#collage-six{
+z-index:2;
+top:19.53vw;
+left:2.6vw;
+}
+
+#collage-seven{
+z-index:4;
+top:20.18vw;
+left:20.83vw;
+}
+
+#collage-eight{
+z-index:6;
+top:19.53vw;
+left:39.71vw;
+}
+
+#collage-nine{
+z-index:3;
+top:29.94vw;
+left:11.07vw;
+}
+
+#collage-ten{
+z-index:5;
+top:29.29vw;
+left:30.6vw;
+}
+
+#collage-eleven{
+z-index:7;
+top:29.29vw;
+left:48.17vw;
+}
+
+#collage-twelve{
+z-index:6;
+top:10.42vw;
+left:50.13vw;
+}
+
+#collage-thirteen{
+z-index:7;
+top:3.225vw;
+left:59.7vw;
+}
+
+#collage-fourteen{
+z-index:7;
+top:21.48vw;
+left:58.6vw;
+}
+
+#fav{
+    width:26.04vw;
+	padding:0.65vw;
+	background-color:red;
+	border-radius:0px;
+  border: 10px solid #eee;
+	position:absolute;
+	z-index:9;
+    top:11.71vw;
+    left:69vw;
+}

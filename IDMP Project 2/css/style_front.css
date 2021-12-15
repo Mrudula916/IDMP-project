@@ -1,0 +1,22 @@
+#left_box
+{	float:left;
+	
+	/* //border-radius:10px;
+	//background-color:#cc6476;
+	//border:3px solid #f1f1f1; */
+	width:60%;
+	margin:0;
+	/* margin-bottom: 0.25em;
+	margin-left: 2.5em;
+	margin-top:70px; */
+}
+
+
+.login-page
+{
+	
+	width:360px;
+	padding:10% 0 0;
+	margin:auto;
+	font-weight:bold;
+}
